@@ -1,4 +1,4 @@
-$3000 Senior Assistance Program: How to Apply?
+$3000 Senior Assistance Program: Guide for How to Apply?
 ==============================================
 
 .. meta::
