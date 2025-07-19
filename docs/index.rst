@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 $3000 Senior Assistance Program: How to Apply?
+=======
+$3000 Senior Assistance Program: Guide for How to Apply?
+>>>>>>> 0eff1b6c384c23e6d770e30fd970b199a4ef290e
 ==============================================
 
 .. meta::
